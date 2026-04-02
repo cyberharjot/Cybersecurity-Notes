@@ -1,4 +1,4 @@
-# ⚔️ Types of Attacks
+#  Types of Attacks
 
 In cybersecurity, attacks are different ways used to access systems, steal data, or disrupt services.
 
@@ -6,7 +6,7 @@ There are many types, but here are some common ones:
 
 ---
 
-## 🔹 Passive Attack
+## 1. Passive Attack
 
 * Attacker only observes, does not modify anything
 * Hard to detect
@@ -14,7 +14,7 @@ There are many types, but here are some common ones:
 
 ---
 
-## 🔹 Active Attack
+## 2. Active Attack
 
 * Attacker directly interacts with system
 * Can modify or destroy data
@@ -22,14 +22,14 @@ There are many types, but here are some common ones:
 
 ---
 
-## 🔹 Phishing
+## 3. Phishing
 
 * Tricks users into giving sensitive info
 * Usually through fake emails or websites
 
 ---
 
-## 🔹 Social Engineering
+## 4. Social Engineering
 
 * Manipulating people instead of systems
 * Uses trust, fear, or urgency
@@ -40,28 +40,28 @@ Example:
 
 ---
 
-## 🔹 Malware Attack
+## 5. Malware Attack
 
 * Uses malicious software
 * Types: Virus, Worm, Trojan
 
 ---
 
-## 🔹 Denial of Service (DoS)
+## 6. Denial of Service (DoS)
 
 * Flooding system with traffic
 * Makes service unavailable
 
 ---
 
-## 🔹 Man-in-the-Middle (MITM)
+## 7. Man-in-the-Middle (MITM)
 
 * Attacker secretly intercepts communication
 * Can read or modify data
 
 ---
 
-## 🔹 Password Attack
+## 8. Password Attack
 
 * Trying to guess or crack passwords
 
@@ -72,35 +72,35 @@ Types:
 
 ---
 
-## 🔹 Zero-Day Attack
+## 9. Zero-Day Attack
 
 * Exploits a vulnerability that is not yet known or fixed
 * Very dangerous because no patch exists
 
 ---
 
-## 🔹 Insider Attack
+## 10. Insider Attack
 
 * Done by someone with internal access
 * Example: employee leaking data
 
 ---
 
-## 🔹 SQL Injection
+## 11. SQL Injection
 
 * Injecting malicious SQL queries
 * Used to access or manipulate database
 
 ---
 
-## 🔹 Cross-Site Scripting (XSS)
+## 12. Cross-Site Scripting (XSS)
 
 * Injecting scripts into websites
 * Affects users visiting that site
 
 ---
 
-## 🎯 Summary
+##  Summary
 
 Cyber attacks can target both systems and people.
 
